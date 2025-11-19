@@ -99,3 +99,9 @@ Accuracy: 0.68
 Precision: 0.68
 Recall: 0.22
 F1-score: 0.33
+
+
+👨‍💻 Author
+
+Shubham Raut
+Data Scientist / Machine Learning Developer
