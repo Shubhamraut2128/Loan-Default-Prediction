@@ -17,24 +17,42 @@ The model analyzes factors such as income, credit score, employment details, loa
 
 The dataset contains the following columns:
 
-Feature Name	Description
+Feature Name	Description 
+ 
 LoanID	Unique ID for each loan application
+
 Age	Applicant’s age
+
 Income	Monthly or annual income
+
 LoanAmount	Total loan amount requested
+
 CreditScore	Credit history score
+
 MonthsEmployed	Total months the applicant has been employed
+
 NumCreditLines	Number of credit lines the applicant holds
+
 InterestRate	Loan interest rate
+
 LoanTerm	Duration of the loan (months/years)
+
 DTIRatio	Debt-to-income ratio
+
 Education	Education level (High School, Graduate, etc.)
+
 EmploymentType	Job type (Salaried, Self-employed, etc.)
+
 MaritalStatus	Applicant marital status
+
 HasMortgage	Whether the applicant has an existing mortgage
+
 HasDependents	Number of dependents
+
 LoanPurpose	Reason for taking the loan
+
 HasCoSigner	Whether a co-signer is present
+
 Default	Target Variable (0 = No Default, 1 = Default)
 
 
