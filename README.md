@@ -3,6 +3,7 @@
 A machine learning project that predicts whether a borrower will default on a loan based on financial, demographic, and credit-related features.
 This project helps financial institutions make data-driven lending decisions, reduce risk, and automate loan evaluation.
 
+
 📘 About the Project
 
 This project uses machine learning to classify loan applicants into:
@@ -11,7 +12,9 @@ This project uses machine learning to classify loan applicants into:
 
 1 → Default
 
-The model analyzes factors such as income, credit score, employment details, loan amount, and more to identify high-risk borrowers.
+The model analyzes factors such as income, credit score, employment details, loan amount, and more to identify high-risk borrowers. 
+
+
 
 📊 Dataset Information
 
@@ -54,6 +57,8 @@ LoanPurpose	Reason for taking the loan
 HasCoSigner	Whether a co-signer is present
 
 Default	Target Variable (0 = No Default, 1 = Default)
+
+
 
 
 🔄 Project Pipeline
@@ -111,12 +116,15 @@ F1-Score
 
 Confusion Matrix
 
+
+
 📈 Results
 
 Accuracy: 0.68
 Precision: 0.68
 Recall: 0.22
 F1-score: 0.33
+
 
 
 👨‍💻 Author
