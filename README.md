@@ -36,6 +36,8 @@ HasDependents	Number of dependents
 LoanPurpose	Reason for taking the loan
 HasCoSigner	Whether a co-signer is present
 Default	Target Variable (0 = No Default, 1 = Default)
+
+
 🔄 Project Pipeline
 ✔ 1. Data Cleaning
 
@@ -92,8 +94,6 @@ F1-Score
 Confusion Matrix
 
 📈 Results
-
-You can add your result values here, for example:
 
 Accuracy: 0.68
 Precision: 0.68
